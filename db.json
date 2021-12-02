@@ -1,0 +1,23 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "work": [
+        {
+            "title": "WEB MARKETING",
+            "subtitle": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteu sunt in culpa qui officia."
+        },
+        {
+            "title": "UI & UX DESIGN",
+            "subtitle": "Digital Team is free responsive Bootstrap v3.3.5 layout from Tooplate. Images are from Pixabay free photo website."
+        },
+        {
+            "title": "ECOMMERCE",
+            "subtitle": "You can edit and use this template for your websites. Please tell your friends about Tooplate. Thank you for visiting our website."
+        }
+    ]
+  }
